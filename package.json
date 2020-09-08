@@ -16,7 +16,7 @@
     "serve": "^11.3.2"
   },
   "devDependencies": {
-    "husky": "^4.2.5",
+    "husky": "^4.3.0",
     "prettier": "^2.1.1",
     "pretty-quick": "^3.0.0"
   }
